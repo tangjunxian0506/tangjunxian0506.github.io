@@ -4,9 +4,6 @@ title: "About"
 
 ## About Me
 
-Write a short paragraph about yourself.
+I am Junxian Tang(Larry), a second year PhD student in Energy Environmental&Food Economics Program.
+I am interested in energy and environment sectors. I choose this course becuase I want to enhance my knowledge of Causual Inference.
 
-You might include:
-- Your major
-- Your interests
-- Why you are taking this course

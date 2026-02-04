@@ -4,10 +4,19 @@ title: "Project"
 
 ## Course Project
 
-Describe your course project here.
+This project studies how the installation of electric vehicle (EV) charging stations affects nearby economic activity. In particular, I ask whether EV charging stations increase local visitation to nearby businesses, such as restaurants and retail stores, and whether these effects differ across neighborhoods.
 
-### Suggested sections
-- Research question
+### Project Sections
 - Data source
+
+Kansas City Electric Vehicle Charging Record
+
+Mobility Data
+
 - Methods
+
+I use a panel data approach to compare business visitation before and after the installation of EV charging stations. The analysis relies on a difference-in-differences framework, with fixed effects to control for time-invariant characteristics of locations and common time trends. Distance-based measures are used to define treated and control areas around charging stations.
+
 - Expected outcomes
+
+I expect EV charging stations to increase visitation to nearby businesses by attracting drivers who spend time charging their vehicles. The results may also reveal heterogeneous effects across business types and neighborhood characteristics. This project aims to provide evidence on the local economic impacts of EV charging infrastructure.

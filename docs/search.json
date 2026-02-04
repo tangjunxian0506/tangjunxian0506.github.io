@@ -4,14 +4,14 @@
     "href": "project.html",
     "title": "Project",
     "section": "",
-    "text": "Describe your course project here.\n\n\n\nResearch question\nData source\nMethods\nExpected outcomes"
+    "text": "This project studies how the installation of electric vehicle (EV) charging stations affects nearby economic activity. In particular, I ask whether EV charging stations increase local visitation to nearby businesses, such as restaurants and retail stores, and whether these effects differ across neighborhoods.\n\n\n\nData source\n\nKansas City Electric Vehicle Charging Record\nMobility Data\n\nMethods\n\nI use a panel data approach to compare business visitation before and after the installation of EV charging stations. The analysis relies on a difference-in-differences framework, with fixed effects to control for time-invariant characteristics of locations and common time trends. Distance-based measures are used to define treated and control areas around charging stations.\n\nExpected outcomes\n\nI expect EV charging stations to increase visitation to nearby businesses by attracting drivers who spend time charging their vehicles. The results may also reveal heterogeneous effects across business types and neighborhood characteristics. This project aims to provide evidence on the local economic impacts of EV charging infrastructure."
   },
   {
     "objectID": "project.html#course-project",
     "href": "project.html#course-project",
     "title": "Project",
     "section": "",
-    "text": "Describe your course project here.\n\n\n\nResearch question\nData source\nMethods\nExpected outcomes"
+    "text": "This project studies how the installation of electric vehicle (EV) charging stations affects nearby economic activity. In particular, I ask whether EV charging stations increase local visitation to nearby businesses, such as restaurants and retail stores, and whether these effects differ across neighborhoods.\n\n\n\nData source\n\nKansas City Electric Vehicle Charging Record\nMobility Data\n\nMethods\n\nI use a panel data approach to compare business visitation before and after the installation of EV charging stations. The analysis relies on a difference-in-differences framework, with fixed effects to control for time-invariant characteristics of locations and common time trends. Distance-based measures are used to define treated and control areas around charging stations.\n\nExpected outcomes\n\nI expect EV charging stations to increase visitation to nearby businesses by attracting drivers who spend time charging their vehicles. The results may also reveal heterogeneous effects across business types and neighborhood characteristics. This project aims to provide evidence on the local economic impacts of EV charging infrastructure."
   },
   {
     "objectID": "index.html",
@@ -137,13 +137,13 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Write a short paragraph about yourself.\nYou might include: - Your major - Your interests - Why you are taking this course\nI am Junxian Tang(Larry), a second year PhD student in Energy Environmental&Food Economics Program. I am interested in energy and environment sectors. I choose this course becuase I want to enhance my knowledge of Causual Inference."
+    "text": "I am Junxian Tang(Larry), a second year PhD student in Energy Environmental&Food Economics Program. I am interested in energy and environment sectors. I choose this course becuase I want to enhance my knowledge of Causual Inference."
   },
   {
     "objectID": "about.html#about-me",
     "href": "about.html#about-me",
     "title": "About",
     "section": "",
-    "text": "Write a short paragraph about yourself.\nYou might include: - Your major - Your interests - Why you are taking this course\nI am Junxian Tang(Larry), a second year PhD student in Energy Environmental&Food Economics Program. I am interested in energy and environment sectors. I choose this course becuase I want to enhance my knowledge of Causual Inference."
+    "text": "I am Junxian Tang(Larry), a second year PhD student in Energy Environmental&Food Economics Program. I am interested in energy and environment sectors. I choose this course becuase I want to enhance my knowledge of Causual Inference."
   }
 ]
