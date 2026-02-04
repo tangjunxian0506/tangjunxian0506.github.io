@@ -1,0 +1,12 @@
+---
+title: "About"
+---
+
+## About Me
+
+Write a short paragraph about yourself.
+
+You might include:
+- Your major
+- Your interests
+- Why you are taking this course

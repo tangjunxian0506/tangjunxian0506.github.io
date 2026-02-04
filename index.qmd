@@ -1,0 +1,12 @@
+---
+title: "Home"
+---
+
+## Welcome
+
+This is my personal website created using **Quarto** and **GitHub Pages**.
+
+### What this site includes
+- A homepage
+- An about page
+- A project page

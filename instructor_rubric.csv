@@ -1,0 +1,13 @@
+Category,Item,Points
+A,Builds in GitHub Actions,5
+A,Clean commits (>=3),5
+A,README updated,5
+B,Home page content,10
+B,About page content,10
+B,Project page content,15
+C,Navbar functional,10
+C,Readable layout,10
+C,Appropriate links,5
+D,Renders successfully,15
+D,No broken internal links,5
+D,GitHub Pages deploy succeeds,5

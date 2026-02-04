@@ -1,0 +1,13 @@
+---
+title: "Project"
+---
+
+## Course Project
+
+Describe your course project here.
+
+### Suggested sections
+- Research question
+- Data source
+- Methods
+- Expected outcomes

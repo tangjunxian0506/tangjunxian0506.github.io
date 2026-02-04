@@ -1,0 +1,149 @@
+[
+  {
+    "objectID": "project.html",
+    "href": "project.html",
+    "title": "Project",
+    "section": "",
+    "text": "Describe your course project here.\n\n\n\nResearch question\nData source\nMethods\nExpected outcomes"
+  },
+  {
+    "objectID": "project.html#course-project",
+    "href": "project.html#course-project",
+    "title": "Project",
+    "section": "",
+    "text": "Describe your course project here.\n\n\n\nResearch question\nData source\nMethods\nExpected outcomes"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "This is my personal website created using Quarto and GitHub Pages.\n\n\n\nA homepage\nAn about page\nA project page"
+  },
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "Home",
+    "section": "",
+    "text": "This is my personal website created using Quarto and GitHub Pages.\n\n\n\nA homepage\nAn about page\nA project page"
+  },
+  {
+    "objectID": "release/week2/README_RELEASE_WEEK2.html",
+    "href": "release/week2/README_RELEASE_WEEK2.html",
+    "title": "Week 2 Release (Instructor)",
+    "section": "",
+    "text": "Week 2 Release (Instructor)\nThis folder simulates content that is present in the repository but can be kept “hidden” from students until you tell them to switch branches.\nRecommended approach: - Keep main minimal for Week 1. - Create a branch like week2 that adds an assignments/ folder. - When ready, tell students: git checkout week2 (or merge week2 into main).\nThis repository includes a sample release/week2/assignments/ directory you can move into place."
+  },
+  {
+    "objectID": "STUDENT_HANDOUT.html",
+    "href": "STUDENT_HANDOUT.html",
+    "title": "Student Website Assignment — Quick Start",
+    "section": "",
+    "text": "Create and publish a simple personal website using Quarto and GitHub Pages.\n\n\n\n\nindex.qmd (Home)\nabout.qmd (About)\nproject.qmd (Project)\n_quarto.yml (Site title and navigation)\n\n\n\n\n\nOpen each .qmd file and replace placeholder text with your own.\nOpen _quarto.yml and set website: title: to your name.\nCommit and push to GitHub.\n\n\n\n\n\nGo to Actions and confirm workflows are green (successful).\nGo to Settings → Pages and look for your site URL.\n\nIf you do not see Pages, your instructor may have enabled the deployment environment view instead.\n\n\n\n\n\n\nDeleting _quarto.yml\nRenaming files without updating the navbar in _quarto.yml\nPushing to a branch other than main\n\n\n\n\n\nInclude a screenshot of the error from Actions → workflow run → logs."
+  },
+  {
+    "objectID": "STUDENT_HANDOUT.html#goal",
+    "href": "STUDENT_HANDOUT.html#goal",
+    "title": "Student Website Assignment — Quick Start",
+    "section": "",
+    "text": "Create and publish a simple personal website using Quarto and GitHub Pages."
+  },
+  {
+    "objectID": "STUDENT_HANDOUT.html#files-you-will-edit",
+    "href": "STUDENT_HANDOUT.html#files-you-will-edit",
+    "title": "Student Website Assignment — Quick Start",
+    "section": "",
+    "text": "index.qmd (Home)\nabout.qmd (About)\nproject.qmd (Project)\n_quarto.yml (Site title and navigation)"
+  },
+  {
+    "objectID": "STUDENT_HANDOUT.html#steps",
+    "href": "STUDENT_HANDOUT.html#steps",
+    "title": "Student Website Assignment — Quick Start",
+    "section": "",
+    "text": "Open each .qmd file and replace placeholder text with your own.\nOpen _quarto.yml and set website: title: to your name.\nCommit and push to GitHub."
+  },
+  {
+    "objectID": "STUDENT_HANDOUT.html#how-to-check-your-site",
+    "href": "STUDENT_HANDOUT.html#how-to-check-your-site",
+    "title": "Student Website Assignment — Quick Start",
+    "section": "",
+    "text": "Go to Actions and confirm workflows are green (successful).\nGo to Settings → Pages and look for your site URL.\n\nIf you do not see Pages, your instructor may have enabled the deployment environment view instead."
+  },
+  {
+    "objectID": "STUDENT_HANDOUT.html#common-mistakes",
+    "href": "STUDENT_HANDOUT.html#common-mistakes",
+    "title": "Student Website Assignment — Quick Start",
+    "section": "",
+    "text": "Deleting _quarto.yml\nRenaming files without updating the navbar in _quarto.yml\nPushing to a branch other than main"
+  },
+  {
+    "objectID": "STUDENT_HANDOUT.html#getting-help",
+    "href": "STUDENT_HANDOUT.html#getting-help",
+    "title": "Student Website Assignment — Quick Start",
+    "section": "",
+    "text": "Include a screenshot of the error from Actions → workflow run → logs."
+  },
+  {
+    "objectID": "release/week2/assignments/assignment-01.html",
+    "href": "release/week2/assignments/assignment-01.html",
+    "title": "Assignment 01 — Add a CV page",
+    "section": "",
+    "text": "Assignment 01 — Add a CV page\n\nCreate a new file called cv.qmd\nAdd it to the navbar in _quarto.yml\nAdd a short CV section (Education, Experience, Skills)\nRender and push"
+  },
+  {
+    "objectID": "instructor_rubric.html",
+    "href": "instructor_rubric.html",
+    "title": "Grading Rubric — Student Website (100 points)",
+    "section": "",
+    "text": "Repository contains required Quarto website files and builds in GitHub Actions\n\n\nClean commit history (at least 3 meaningful commits; messages are descriptive)\n\n\nREADME updated with student name and short description\n\n\n\n\n\n\n\nHome page: clear welcome, purpose, and navigation cues\n\n\nAbout page: substantive bio (not placeholder text)\n\n\nProject page: clear question/topic, data or motivation, methods/plan\n\n\n\n\n\n\n\nNavbar present and functional across pages\n\n\nConsistent headings, readable layout, and correct spelling/grammar\n\n\nExternal links (if used) work and are appropriate\n\n\n\n\n\n\n\nSite renders without errors; required pages exist in _site/\n\n\nNo broken internal links (e.g., navbar targets exist)\n\n\nGitHub Pages deploy succeeds (site is reachable)\n\n\n\n\n\n\nYou are graded on the rendered site AND the repository content.\nIf a build fails, fix it and push again before the deadline."
+  },
+  {
+    "objectID": "instructor_rubric.html#a.-repository-setup-and-professionalism-15",
+    "href": "instructor_rubric.html#a.-repository-setup-and-professionalism-15",
+    "title": "Grading Rubric — Student Website (100 points)",
+    "section": "",
+    "text": "Repository contains required Quarto website files and builds in GitHub Actions\n\n\nClean commit history (at least 3 meaningful commits; messages are descriptive)\n\n\nREADME updated with student name and short description"
+  },
+  {
+    "objectID": "instructor_rubric.html#b.-content-quality-and-completeness-35",
+    "href": "instructor_rubric.html#b.-content-quality-and-completeness-35",
+    "title": "Grading Rubric — Student Website (100 points)",
+    "section": "",
+    "text": "Home page: clear welcome, purpose, and navigation cues\n\n\nAbout page: substantive bio (not placeholder text)\n\n\nProject page: clear question/topic, data or motivation, methods/plan"
+  },
+  {
+    "objectID": "instructor_rubric.html#c.-site-structure-and-usability-25",
+    "href": "instructor_rubric.html#c.-site-structure-and-usability-25",
+    "title": "Grading Rubric — Student Website (100 points)",
+    "section": "",
+    "text": "Navbar present and functional across pages\n\n\nConsistent headings, readable layout, and correct spelling/grammar\n\n\nExternal links (if used) work and are appropriate"
+  },
+  {
+    "objectID": "instructor_rubric.html#d.-technical-correctness-25",
+    "href": "instructor_rubric.html#d.-technical-correctness-25",
+    "title": "Grading Rubric — Student Website (100 points)",
+    "section": "",
+    "text": "Site renders without errors; required pages exist in _site/\n\n\nNo broken internal links (e.g., navbar targets exist)\n\n\nGitHub Pages deploy succeeds (site is reachable)"
+  },
+  {
+    "objectID": "instructor_rubric.html#notes-for-students",
+    "href": "instructor_rubric.html#notes-for-students",
+    "title": "Grading Rubric — Student Website (100 points)",
+    "section": "",
+    "text": "You are graded on the rendered site AND the repository content.\nIf a build fails, fix it and push again before the deadline."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Write a short paragraph about yourself.\nYou might include: - Your major - Your interests - Why you are taking this course"
+  },
+  {
+    "objectID": "about.html#about-me",
+    "href": "about.html#about-me",
+    "title": "About",
+    "section": "",
+    "text": "Write a short paragraph about yourself.\nYou might include: - Your major - Your interests - Why you are taking this course"
+  }
+]
